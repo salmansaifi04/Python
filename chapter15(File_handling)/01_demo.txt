@@ -1,0 +1,3 @@
+Salman,50000
+Prakash,5
+Suraj,5

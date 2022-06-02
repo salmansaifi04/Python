@@ -1,0 +1,3 @@
+Salman's salary is 50000
+Prakash's salary is 5
+Suraj's salary is 5
